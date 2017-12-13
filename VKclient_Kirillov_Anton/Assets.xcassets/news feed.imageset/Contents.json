@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "mfg-labs-iconset_2014-07-29_newspaper_30_0_010101_none.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "mfg-labs-iconset_2014-07-29_newspaper_60_0_010101_none.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "mfg-labs-iconset_2014-07-29_newspaper_90_0_010101_none.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
